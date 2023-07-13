@@ -13,10 +13,10 @@ h1{
   margin-top: 100px;
 } */
 body{
-    background-color: rgb(9, 0, 0);
+    background-image: url(./images/pexels-photo-775201.jpg);
 }
 .head,.eye,.leftarm,.rightarm,.torso,.rightleg,.leftleg{
-    background-color: rgb(107, 238, 131);
+    background-color:rgb(186, 227, 231);
 }
 .border{
     display: flex;
@@ -40,7 +40,7 @@ body{
     display: inline-block;
     margin-right: 50px;
     position: absolute;
-    background-color: aliceblue;
+    background-image: url(images/images.png ) ;
 }
 .eye{
     position: relative;
